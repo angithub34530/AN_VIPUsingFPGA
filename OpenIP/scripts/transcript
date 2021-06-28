@@ -1,0 +1,4 @@
+# results/SEED.wlf opened as dataset "SEED"
+# do wave.do /*
+# ** Error: (vish-4014) No objects found matching '/top_tb/ImageWriter_inst/data'.
+# Executing ONERROR command at macro ./wave.do line 25

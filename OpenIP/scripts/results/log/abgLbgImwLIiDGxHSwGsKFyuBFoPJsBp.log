@@ -1,0 +1,30 @@
+# vsim -c -voptargs="+acc" work.top_tb -l ./results/log/abgLbgImwLIiDGxHSwGsKFyuBFoPJsBp.log -wlf ./results/SEED.wlf -do "log -r /*; run -all " 
+# Start time: 15:52:29 on Jun 28,2021
+# Loading work.top_tb
+# Loading work.ImageGenerator
+# Loading work.vip_top
+# Loading work.fifo_24b
+# Loading work.scfifo
+# Loading work.ALTERA_DEVICE_FAMILIES
+# Loading work.core
+# Loading work.ImageWriter
+# log -r /*
+#  run -all 
+# finishd
+# width= 100
+# height= 100
+# num_frame=   4
+# Read cfg done
+# start frame=       0
+# frame proceed     0
+# start frame=       1
+# frame proceed     1
+# start frame=       2
+# frame proceed     2
+# start frame=       3
+# frame proceed     3
+# writed file done
+# ** Note: $finish    : ../vip_core/tb/image_writer.v(108)
+#    Time: 159712 ps  Iteration: 1  Instance: /top_tb/ImageWriter_inst
+# End time: 15:52:30 on Jun 28,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
